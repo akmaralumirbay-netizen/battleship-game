@@ -23,7 +23,7 @@
 
 1. Скачайте или клонируйте репозиторий:
    ```bash
-   git clone https://github.com/<ваш-username>/<название-репозитория>.git
+   git clone https://github.com/akmaralumirbay-netizen/battleship-game.git
    ```
 2. Откройте файл `index.html` в любом современном браузере.
 
